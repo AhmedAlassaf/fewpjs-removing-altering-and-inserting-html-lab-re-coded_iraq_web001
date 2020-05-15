@@ -1,4 +1,5 @@
 // Write your code here!
 main.remove()
 
-let 
+let newHeader = document.querySelector('h1');
+newHeader.id = 'victory'
