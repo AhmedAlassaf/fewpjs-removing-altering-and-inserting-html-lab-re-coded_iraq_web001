@@ -1,7 +1,7 @@
 // Write your code here!
 main.remove()
 
-let newHeader = document.querySelector('h1');
+let newHeader = document.createElement('h1');
 newHeader.id = 'victory'
 
 newHeader.innerHTML = 'Ahmed is the champion!';
